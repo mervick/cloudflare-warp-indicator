@@ -1,0 +1,54 @@
+.warp-disconnected {
+    color: #808080;
+}
+
+.warp-connected {
+    color: #ffffff;
+}
+
+.warp-error {
+    cursor: pointer;
+}
+
+.warp-switch {
+    margin-right: 6px;
+    padding-right: 6px;
+    background-color: transparent;
+    border: none;
+    padding-bottom: 12px;
+
+}
+
+.warp-switch:hover {
+    background-color: transparent;
+}
+
+.warp-label {
+    background-color: transparent;
+    color: rgb(255, 96, 85);
+    font-size: 24px;
+    font-weight: bolder;
+    padding-bottom: 8px;
+}
+
+.warp-menu {
+    background-color: red;
+}
+
+.warp-label-status {
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom: 4px;
+}
+
+.warp-label-status-error {
+    background-color: transparent;
+    color: rgb(255, 96, 85);
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom: 4px;
+}
+
+

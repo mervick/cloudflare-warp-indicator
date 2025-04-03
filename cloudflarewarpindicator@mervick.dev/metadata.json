@@ -1,0 +1,10 @@
+{
+  "name": "Cloudflare WARP Indicator",
+  "description": "Makes using Cloudflare WARP easier | This extension is not affiliated, funded, or in any way associated with Cloudflare.",
+  "uuid": "cloudflarewarpindicator@mervick.dev",
+  "shell-version": [
+    "42"
+  ],
+  "url": "https://github.com/mervick/cloudflare-warp-indicator",
+  "version": "0.42.0"
+}
