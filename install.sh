@@ -11,8 +11,8 @@ VERSION="0.42.0"
 
 if which warp-cli >/dev/null; then
     echo "${WHITE}Installing Cloudflare WARP Indicator (${GREY}${VERSION}${WHITE})...${NC}"
-    cp -vr cloudflarewarpindicator@depscian.com ~/.local/share/gnome-shell/extensions/
-    gnome-extensions enable cloudflarewarpindicator@depscian.com
+    cp -vr cloudflarewarpindicator@mervick.dev ~/.local/share/gnome-shell/extensions/
+    gnome-extensions enable cloudflarewarpindicator@mervick.dev
     echo "${GREEN}Cloudflare WARP Indicator has been installed!${NC}"
 else
     echo "${RED}Before installing Cloudflare WARP Indicator, please install warp-cli.${NC} You can find it here: https://pkg.cloudflareclient.com/"
